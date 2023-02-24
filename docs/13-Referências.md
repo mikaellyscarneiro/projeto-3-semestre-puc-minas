@@ -8,6 +8,8 @@ Acessado em: 23/02/2023.
 
 CAVALCANTI, M. O. C.;MACIEL, J. W. G.; AQUINO, M. F. S.. O uso de aplicativos móveis como ferramenta pedagógica no ensino-aprendizagem de língua inglesa. 2017. Dissertação (Mestrado em Mestrado Profissional em Linguística e Ensino) - Universidade Federal da Paraíba. Acessado em: 23/02/2023.
 
+UNESCO. UNESCO policy guidelinesfor mobile learning. França: UNESCO, 2013.Disponivel em: <ubesdoc.unesco.org images0021... 21961e.pdf>Acessado em: 24/02/2023.
+
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
