@@ -8,19 +8,31 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+| Kali Habbab | Idade:35 |Persona 1 - Professor|
+|:---:|:---:|:---:|
+| ![Persona Kali Habbab](img/persona-Kali-Habbab.png)| **Ocupação:**  Motorista de ônibus da empresa RandBus.| **Aplicativos:** Facebook, WhatsApp, YouTube, Instagram. |
+| **Motivações**| **Frustrações** | **Hobbies e História** |
+| Conseguir ensinar de forma eficiente. | Fica cansado de ter que corrigir exercícios dos alunos de várias salas à mão. | Jogar Xadrez.|
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+| Julia Fonseca | Idade:45 |Persona 2 - Pedagoga|
+|:---:|:---:|:---:|
+| ![Persona Julia Fonseca](img/persona-julia-fonseca.png)| **Ocupação:**  Supervisora de escola. | **Aplicativos:**  Facebook, WhatsApp, YouTube, Instagram, Tinder. |
+| **Motivações**| **Frustrações** | **Hobbies e História** |
+| Ser uma boa profissional. | Está insatisfeita de ver que os métodos de ensino não serem melhorados. | Praticar exercícios e jogar vôlei. |
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| Ana Luíza Oliveira | Idade: 14 |Persona 3 - Estudante |
+|:---:|:---:|:---:|
+| ![Persona Ana Luíza Oliveira](img/persona-ana-luiza.png) | **Ocupação:** Estudante. | **Aplicativos:** Instagram, YouTube, Tiktok, Kwai. |
+| **Motivações**| **Frustrações**| **Hobbies e História** |
+| Ser uma boa filha e boa aluna. | Não encontra boas formas de fixar conteúdo. | Fica frustrada quando não consegue entender algo na escola e sente que está ficando para trás em relação aos seus colegas. |
+
+| Enzo Valentim | Idade: 12 |Persona 4 - Aluno |
+|:---:|:---:|:---:|
+| ![Persona Enzo Valentim](img/persona-enzo-valentim.png) | **Ocupação:** Estudante.| **Aplicativos:** Youtube, Instagram, Tiktok, Kwai |
+| **Motivações**| **Frustrações**| **Hobbies e História** |
+| Se divertir com familia e amigos. | Acha o ensino massante e chato. | Jogar vídeo game, e praticar esportes com amigos. |
+
+
 
 ## Histórias de Usuários
 
