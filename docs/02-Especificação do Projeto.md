@@ -10,25 +10,25 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | Kali Habbab | Idade:35 |Persona 1 - Professor|
 |:---:|:---:|:---:|
-| ![Persona Kali Habbab](img/persona-Kali-Habbab.png)| **Ocupação:**  Motorista de ônibus da empresa RandBus.| **Aplicativos:** Facebook, WhatsApp, YouTube, Instagram. |
+| ![Persona Kali Habbab](src/persona-Kali-Habbab.png)| **Ocupação:**  Motorista de ônibus da empresa RandBus.| **Aplicativos:** Facebook, WhatsApp, YouTube, Instagram. |
 | **Motivações**| **Frustrações** | **Hobbies e História** |
 | Conseguir ensinar de forma eficiente. | Fica cansado de ter que corrigir exercícios dos alunos de várias salas à mão. | Jogar Xadrez.|
 
 | Julia Fonseca | Idade:45 |Persona 2 - Pedagoga|
 |:---:|:---:|:---:|
-| ![Persona Julia Fonseca](img/persona-julia-fonseca.png)| **Ocupação:**  Supervisora de escola. | **Aplicativos:**  Facebook, WhatsApp, YouTube, Instagram, Tinder. |
+| ![Persona Julia Fonseca](src/persona-julia-fonseca.png)| **Ocupação:**  Supervisora de escola. | **Aplicativos:**  Facebook, WhatsApp, YouTube, Instagram, Tinder. |
 | **Motivações**| **Frustrações** | **Hobbies e História** |
 | Ser uma boa profissional. | Está insatisfeita de ver que os métodos de ensino não serem melhorados. | Praticar exercícios e jogar vôlei. |
 
 | Ana Luíza Oliveira | Idade: 14 |Persona 3 - Estudante |
 |:---:|:---:|:---:|
-| ![Persona Ana Luíza Oliveira](img/persona-ana-luiza.png) | **Ocupação:** Estudante. | **Aplicativos:** Instagram, YouTube, Tiktok, Kwai. |
+| ![Persona Ana Luíza Oliveira](src/persona-ana-luiza.png) | **Ocupação:** Estudante. | **Aplicativos:** Instagram, YouTube, Tiktok, Kwai. |
 | **Motivações**| **Frustrações**| **Hobbies e História** |
 | Ser uma boa filha e boa aluna. | Não encontra boas formas de fixar conteúdo. | Fica frustrada quando não consegue entender algo na escola e sente que está ficando para trás em relação aos seus colegas. |
 
 | Enzo Valentim | Idade: 12 |Persona 4 - Aluno |
 |:---:|:---:|:---:|
-| ![Persona Enzo Valentim](img/persona-enzo-valentim.png) | **Ocupação:** Estudante.| **Aplicativos:** Youtube, Instagram, Tiktok, Kwai |
+| ![Persona Enzo Valentim](src/persona-enzo-valentim.png) | **Ocupação:** Estudante.| **Aplicativos:** Youtube, Instagram, Tiktok, Kwai |
 | **Motivações**| **Frustrações**| **Hobbies e História** |
 | Se divertir com familia e amigos. | Acha o ensino massante e chato. | Jogar vídeo game, e praticar esportes com amigos. |
 
