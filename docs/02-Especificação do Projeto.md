@@ -85,16 +85,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Tela de Login | ALTA | 
+|RF-001| Home Page com Estatísticas do Aluno | ALTA | 
+|RF-001| Home Page com Estatísticas da Turma | ALTA | 
+|RF-001| Menu Laterial com as Matérias Disponíveis | ALTA | 
+|RF-001| Scroll com as Questões de Multipla Escolha | ALTA | 
+|RF-001| Feedback da Resposta da Questão | ALTA | 
+|RF-001| Acesso à opção no Menu de Criação\Atualização de Questões para Professores | ALTA | 
+|RF-001| Acesso à opção no Menu de Criação\Atualização de Usuários para Gestores | ALTA | 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
+|RNF-003| Deve ser Desenvolvido usando React Native |  ALTA | 
+|RNF-004| Deve usar chamadas HTTP em uma API externa |  MÉDIA | 
+|RNF-005| Deve impedir que os usuários de hierarquia superior possam interferir na apuração do resultado dos alunos |  ALTA | 
 
+<!--
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
 - [Requisitos Funcionais
@@ -109,6 +119,7 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
 Lembre-se que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+-->
 
 ## Restrições
 
