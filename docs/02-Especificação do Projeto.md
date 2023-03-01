@@ -86,13 +86,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Tela de Login | ALTA | 
-|RF-001| Home Page com Estatísticas do Aluno | ALTA | 
-|RF-001| Home Page com Estatísticas da Turma | ALTA | 
-|RF-001| Menu Laterial com as Matérias Disponíveis | ALTA | 
-|RF-001| Scroll com as Questões de Multipla Escolha | ALTA | 
-|RF-001| Feedback da Resposta da Questão | ALTA | 
-|RF-001| Acesso à opção no Menu de Criação\Atualização de Questões para Professores | ALTA | 
-|RF-001| Acesso à opção no Menu de Criação\Atualização de Usuários para Gestores | ALTA | 
+|RF-002| Home Page com Estatísticas do Aluno | ALTA | 
+|RF-003| Home Page com Estatísticas da Turma | ALTA | 
+|RF-004| Menu Laterial com as Matérias Disponíveis | ALTA | 
+|RF-005| Scroll com as Questões de Multipla Escolha | ALTA | 
+|RF-006| Feedback da Resposta da Questão | ALTA | 
+|RF-007| Acesso à opção no Menu de Criação\Atualização de Questões para Professores | ALTA | 
+|RF-008| Acesso à opção no Menu de Criação\Atualização de Usuários para Gestores | ALTA | 
 
 ### Requisitos não Funcionais
 
